@@ -1,0 +1,18 @@
+Format of each lyrics file.
+
+<song lyrics>
+
+
+చిత్రం: <>
+సంగీతం: <>
+రచయిత: <>
+గానం: <>
+
+
+వీడియో: <>
+ఆడియో: <>
+డౌన్లోడ్: <>
+
+The meta data fields are not mandatory. But try to provide them as many as possible. 
+
+Lyrics with less typos are preferred.
