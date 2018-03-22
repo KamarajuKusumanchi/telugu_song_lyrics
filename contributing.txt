@@ -1,4 +1,4 @@
-Format of each lyrics file.
+The lyrics file should be formatted as
 
 <song lyrics>
 
@@ -13,6 +13,8 @@ Format of each lyrics file.
 ఆడియో: <>
 డౌన్లోడ్: <>
 
-The meta data fields are not mandatory. But try to provide them as many as possible. 
+The meta data fields are not mandatory. But try to provide them as many as possible.
 
 Lyrics with less typos are preferred.
+
+Any contributions (no matter how small you think they are) are welcome and appreciated. 
