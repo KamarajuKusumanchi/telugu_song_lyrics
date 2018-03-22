@@ -1,6 +1,6 @@
-The lyrics file should be formatted as
+Format the lyrics file as
 
-<song lyrics>
+<lyrics>
 
 
 చిత్రం: <>
@@ -13,8 +13,8 @@ The lyrics file should be formatted as
 ఆడియో: <>
 డౌన్లోడ్: <>
 
-The meta data fields are not mandatory. But try to provide them as many as possible.
+The meta data fields are not mandatory. But try to provide as much as possible.
 
 Lyrics with less typos are preferred.
 
-Any contributions (no matter how small you think they are) are welcome and appreciated. 
+Any contributions (no matter how small you think they are) are welcome and appreciated. Please raise a pull request. 
