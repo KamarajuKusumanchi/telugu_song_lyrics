@@ -8,10 +8,11 @@ Format the lyrics file as
 రచన: <>
 గానం: <>
 
-
+సంబంధిత పేజీలు
 వీడియో: <>
 ఆడియో: <>
 డౌన్లోడ్: <>
+వికీ: <>
 
 The meta data fields are not mandatory. But try to provide as much as possible.
 
